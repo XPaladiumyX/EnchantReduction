@@ -13,8 +13,14 @@ permissions:
   skyxnetwork.enchantreduction.20:
     description: Reduces XP costs by 20%.
     default: false
+  skyxnetwork.enchantreduction.25:
+    description: Reduces XP costs by 25%.
+    default: false
   skyxnetwork.enchantreduction.50:
     description: Reduces XP costs by 50%.
+    default: false
+  skyxnetwork.enchantreduction.75:
+    description: Reduces XP costs by 75%.
     default: false
   skyxnetwork.enchantreduction.100:
     description: Reduces XP costs by 100%.

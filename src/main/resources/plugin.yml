@@ -2,3 +2,20 @@ name: enchantreduction
 version: '1.1-SNAPSHOT'
 main: skyxnetwork.enchantreduction.Enchantreduction
 api-version: '1.20'
+description: Reduces XP costs for enchanting and repairing based on permissions.
+permissions:
+  skyxnetwork.enchantreduction.*:
+    description: Grants full XP reduction.
+    default: op
+  skyxnetwork.enchantreduction.10:
+    description: Reduces XP costs by 10%.
+    default: false
+  skyxnetwork.enchantreduction.20:
+    description: Reduces XP costs by 20%.
+    default: false
+  skyxnetwork.enchantreduction.50:
+    description: Reduces XP costs by 50%.
+    default: false
+  skyxnetwork.enchantreduction.100:
+    description: Reduces XP costs by 100%.
+    default: false

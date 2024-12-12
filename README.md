@@ -1,5 +1,5 @@
 ﻿# EnchantReduction  
-Devloped by ✨ | Sky X Network | ✨  
+## Devloped by ✨ | Sky X Network | ✨  
 -
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/pTErYjTh5h)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)

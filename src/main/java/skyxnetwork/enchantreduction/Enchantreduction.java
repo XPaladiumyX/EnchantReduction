@@ -6,12 +6,13 @@ public final class Enchantreduction extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
-
+        // Enregistrer les événements
+        getServer().getPluginManager().registerEvents(new EnchantReductionListener(this), this);
+        getLogger().info("Enchantreduction activé !");
     }
 
     @Override
     public void onDisable() {
-        // Plugin shutdown logic
+        getLogger().info("Enchantreduction désactivé !");
     }
 }

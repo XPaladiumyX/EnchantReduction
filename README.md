@@ -5,11 +5,16 @@ Devloped by ✨ | Sky X Network | ✨
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://skyxnetwork.net)
 # Overview  
-EnchantReduction is a lightweight Minecraft plugin designed for Spigot 1.20-1.20.1 servers. It adds essential permissions. The plugin is tailored for server owners looking for a simple solution to enhance gameplay without requiring additional dependencies. However, this plugin is not actively maintained for other developers or server owners. It reduced the experience cost for any items defined by a permission in an avil.  
+EnchantReduction is a lightweight Minecraft plugin designed for Spigot 1.20-1.20.1 servers. It adds essential permissions. The plugin is tailored for server owners looking for a simple solution to enhance gameplay without requiring additional dependencies. However, this plugin is not actively maintained for other developers or server owners.  
+
+**Okay But What Does This Plugin?**  
+It reduce the experience cost for any items in an anvil defined by a permission via a permission manager plugin.   
+*Kind of pretty useful to disable the xp cost of every repairs/anvil-recipes or to make perks.*  
 
 ## Features    
-  - Permissions Management: Fine-grained control over who can access each command.  
-  - Simple Configuration: Easy to set up and adapt for your server.   
+  - Permissions Management: Allows you to set skyxnetwork.enchantreduction.NUMBER on any player/groups wich reduce the exp cost by the NUMBER defined in the permission.  
+  - Simple Configuration: Easy to set up and adapt for your server.  
+  - No Lags Of Course!  
 
 **Permissions**  
 skyxnetwork.enchantreduction.* : Grants full XP reduction.  

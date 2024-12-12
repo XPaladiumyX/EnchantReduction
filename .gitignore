@@ -111,3 +111,9 @@ buildNumber.properties
 
 # Common working directory
 run/
+
+src/main/java/skyxnetwork/enchantreduction/Enchantreduction.java
+
+src/main/java/skyxnetwork/enchantreduction/EnchantreductionListener.java
+
+src/main/java/skyxnetwork/enchantreduction/EnchantReductionListener.java
